@@ -28,14 +28,14 @@ projects:
     projects:
     # - repo-name
 
-# social_media:
+ social_media:
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
   # hackerrank: your_username
   # instagram: your_username
   # keybase: your_username
-  # linkedin: your_username
+  linkedin: mathiasvp
   # mastodon: your_username
   # medium: your_username
   # stackoverflow: your_user_id
@@ -43,16 +43,16 @@ projects:
   # twitter: your_username
   # unsplash: your_username
   # vk: your_username
-  # website: http://your_website_url
+  website: http://mathias.website
   # youtube: your_username
 
 topics:
-  - name: CSS
-    web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+  - name: Haskell
+    web_url: https://www.haskell.org/
+    image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Haskell-Logo.svg/1200px-Haskell-Logo.svg.png
 
-  - name: Web design
+  - name: Compilers
 
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+  - name: Coq
+    web_url: https://github.com/coq/coq
+    image_url: https://raw.githubusercontent.com/github/explore/7905d12e729f7b0f0dc9b80ad385fca3b6e17523/topics/coq/coq.png
