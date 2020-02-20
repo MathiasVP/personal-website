@@ -57,3 +57,5 @@ topics:
   - name: Coq
     web_url: https://github.com/coq/coq
     image_url: https://raw.githubusercontent.com/github/explore/7905d12e729f7b0f0dc9b80ad385fca3b6e17523/topics/coq/coq.png
+
+theme: jekyll-theme-cayman
