@@ -51,7 +51,8 @@ topics:
     web_url: https://www.haskell.org/
     image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Haskell-Logo.svg/1200px-Haskell-Logo.svg.png
 
-  - name: Compilers
+  - name: Compilers and program analysis
+    image_url: https://images-na.ssl-images-amazon.com/images/I/51qOYA71kkL.jpg
 
   - name: Coq
     web_url: https://github.com/coq/coq
